@@ -1,4 +1,4 @@
-// Lab 1: Review hola
+// Lab 1: Review
 #include <iostream>
 #include <iomanip>
 
